@@ -1,4 +1,4 @@
-#!/usr/local/bin/node
+#!/usr/bin/env node
 
 //
 // Very basic XMPP/Jabber bot that listens and responds to keywords said in

@@ -8,8 +8,11 @@ Example
 -------
 To make the bot say "hello world" in configured MUC: 
 
-	curl "http://localhost:8081/say/hello world"
-
+	# curl "http://localhost:8081/say/hello world"
+How
+-------
+	# npm install
+	# ./app.js
 Why
 -------
 Based off prototype code for an internal chat bot in use at [Adell Group](http://www.adell.n) that makes announcements 
