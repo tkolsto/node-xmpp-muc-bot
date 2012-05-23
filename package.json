@@ -1,0 +1,14 @@
+{
+    "name": "node-xmpp-muc-bot"
+  , "description": "Simple xmpp muc bot"
+  , "author": "Thomas Kolstø <thomas@kolsto.no>"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "request": ">= 2.9.202"
+    , "url": ">= 0.4.9"
+    , "util": ">= 0.4.9"
+    , "node-xmpp": ">= 0.3.2"
+    , "querystring": ">= 0.1.0"
+  },
+  "engine": "node >=0.4.0"
+}
